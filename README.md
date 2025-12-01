@@ -1,7 +1,7 @@
 # Android Dynamic Performance Framework (ADPF) Unreal plugin
 
 This repository enables you to use the [ADPF](https://developer.android.com/games/optimize/adpf) plugin in Unreal Engine.
-
+oooo9@(l
 The plugin has two main features: thermal state and CPU performance hints. The plugin monitors the thermal state of a device and proactively adjusts performance before the level of performance becomes unsustainable. CPU performance hints let Android choose the right CPU clocks and core types instead of Android choosing based on previous workloads.
 
 ## Setup
